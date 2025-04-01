@@ -85,11 +85,16 @@ section h3 {
   padding-left: 25px; /* Slightly increased padding for better alignment */
   list-style-type: circle; /* Changed bullet style to circle */
   color: #333; /* Darker text color for better readability */
+  background-color: #f9f9f9; /* Light background for better separation */
+  border: 1px solid #ddd; /* Subtle border for distinction */
+  border-radius: 5px; /* Rounded corners for a softer look */
+  padding: 10px; /* Added padding inside the list */
 }
 
 .activity-card ul li {
   margin-bottom: 8px; /* Slightly increased margin for better spacing */
   font-size: 14px; /* Slightly smaller font size for a cleaner look */
+  color: #555; /* Softer text color for participants */
 }
 
 .form-group {
